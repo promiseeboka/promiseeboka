@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Promise Eboka 👋
 
-<!--
-**promiseeboka/promiseeboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub.
 
-Here are some ideas to get you started:
+I'm building my skills in business, technology and AI while developing real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Learning GitHub
+- Learning AI
+- Improving SEO
+- Building business systems
+- Creating multiple professional portfolios
+
+## 📂 My Repositories
+
+### Career
+- career-portfolio
+
+### Learning
+- learning-lab
+
+### Business
+- business-lab
+
+## 🎯 Long-Term Goal
+
+To build technology-driven businesses and become a leader who understands both business and software development.
+
+Thanks for visiting my profile!
